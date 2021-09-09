@@ -35,7 +35,8 @@ Présentation aux `Rencontres R 2021` disponible sur <https://www.presentations.
 
 {{< tweet 1414895903127838728 >}}
 
+# Replay
 
-Replay de l'intervention :
+Replay de l'intervention disponible sur [Youtube](https://www.youtube.com/watch?v=SYnguj3xgjU):
 
 {{< youtube SYnguj3xgjU >}}
