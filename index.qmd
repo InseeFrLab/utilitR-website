@@ -29,7 +29,7 @@ tout utilisateur·trice de <i class="fab fa-r-project"></i> intéressé·e par l
 La documentation ne fait aucun prérequis de niveau.
 <br>
 
-Tout est disponible en [open-source](https://github.com/inseefrlab/utilitr) <a href="https://github.com/inseefrlab/inseefrlab" class="github"><i class="fab fa-github"></i></a>
+Tout est disponible en [open-source](https://github.com/inseefrlab/utilitr) <a href="https://github.com/inseefrlab/utilitr" class="github"><i class="fab fa-github"></i></a>
 
 <br>
 
