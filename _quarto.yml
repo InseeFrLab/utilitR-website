@@ -5,7 +5,7 @@ project:
     - archives.qmd
 
 website:
-  title: "`utilitR`"
+  title: "utilitR"
   search: false
   navbar:
     left:
